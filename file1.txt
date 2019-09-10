@@ -1,2 +1,6 @@
 Hello world
+<<<<<<< HEAD
 jié
+=======
+on est des malades !
+>>>>>>> develop
